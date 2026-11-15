@@ -1,0 +1,6 @@
+# SymbiYosys output
+fifo_cover/
+fifo_bmc/
+fifo_prove/
+mut/
+*.vcd
