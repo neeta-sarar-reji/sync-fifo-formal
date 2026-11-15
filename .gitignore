@@ -4,3 +4,4 @@ fifo_bmc/
 fifo_prove/
 mut/
 *.vcd
+fifo/
